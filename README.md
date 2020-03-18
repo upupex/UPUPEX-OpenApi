@@ -5,6 +5,8 @@
 
 If you have any questions, please post your issues on the board, We will ack you as soon as we can.Thanks.
 
+[在线预览](https://upupex.github.io/UPUPEX-OpenApi/)
+
 [中文](docs/REST_API_CN.md)  
 
 [现货](docs/REST_API_CN.md) 
